@@ -24,7 +24,7 @@ To test out the application, ensure Docker is installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-name/taskflow
+git clone https://github.com/Raghul2103/taskflow-raghulkumar.git
 cd taskflow
 
 # Prepare environment variables
